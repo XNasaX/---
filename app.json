@@ -2,7 +2,7 @@
   "name": "BOT-MAID", 
   "description": "Una sirvienta a tu disposicion",
   "repository": "https://github.com/XNasaX/BOT-MAID",
-  "logo": "https://i.imgur.com/8fK4h6F.jpg",
+  "logo": "https://i.imgur.com/j6cw92c.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
